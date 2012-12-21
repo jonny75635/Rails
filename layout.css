@@ -1,0 +1,93 @@
+#topbar {
+  background-color:blue;
+  width:100%;
+  height:100px;
+  float:left;
+}
+#container {
+  background-color:red;
+  width: 960px;
+  margin-left:auto;
+  margin-right:auto;
+  height:auto;
+}
+#left-bar {
+  background-color:yellow;
+  width: 250px;
+  height: 550px; 
+  float:left;
+}
+#ltop-bar {
+  background-color:#3333CC;
+  width: 210px;
+  height: 250px; 
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:15px;
+}
+#lbottom-bar {
+  background-color:#330099;
+  width: 210px;
+  height: 250px; 
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:15px;
+}
+#right-bar {
+  background-color:green;
+  width: 710px;
+  height: 550px; 
+  float:left;
+}
+#right1-bar {
+  background-color:green;
+  width: 350px;
+  height: 270px; 
+  float:left;
+}
+#right2-bar {
+  background-color:green;
+  width: 350px;
+  height: 270px; 
+  float:left;
+}
+#r1-bar {
+  background-color:blue;
+  width: 330px;
+  height: 251px; 
+  float:left;
+  margin-left:15px;
+  margin-right:15px;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+#r2-bar {
+  background-color:blue;
+  width: 330px;
+  height: 250px; 
+  float:left;
+  margin-left:15px;
+  margin-right:15px;
+  margin-bottom:15px;
+}
+#r3-bar {
+  background-color:blue;
+  width: 330px;
+  height: 251px; 
+  margin-left:15px;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+#r4-bar {
+  background-color:blue;
+  width: 330px;
+  height: 250px; 
+  margin-left:15px;
+  margin-bottom:15px;
+}
+#footer {
+  background-color:brown;
+  width: 100%;
+  height:25px;
+  float:left;
+}
